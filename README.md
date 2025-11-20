@@ -2,6 +2,9 @@
 
 A modern VPN application concept built with React Native and Expo.
 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+
 ## 📱 Preview
 
 ![VPN App Preview](screenshot.png)
@@ -66,3 +69,6 @@ src/
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Naimur444.vpn-app)
